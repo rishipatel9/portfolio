@@ -102,6 +102,11 @@ export const DATA = {
           href: "https://github.com/rishipatel9/text",
           icon: <Icons.github className="size-3" />,
         },
+        {
+          type: "Status Page",
+          href: "http://status.text.whiteops.xyz/",
+          icon: <Icons.globe className="size-3" />,
+        },
       ],
       image: "https://imgtr.ee/images/2024/08/18/020a87298274ba89926e46e824573757.jpeg",
     },
@@ -131,6 +136,11 @@ export const DATA = {
           type: "Source",
           href: "https://github.com/rishipatel9/mines",
           icon: <Icons.github className="size-3" />,
+        },
+        {
+          type: "Status Page",
+          href: "http://status.mines.whiteops.xyz/",
+          icon: <Icons.globe className="size-3" />,
         },
       ],
       image: "https://imgtr.ee/images/2024/08/18/73014a345029eef61eca29a6ea1bb0f6.jpeg",
