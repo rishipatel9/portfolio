@@ -16,6 +16,7 @@ Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://
 
    ```bash
    git clone https://github.com/dillionverma/portfolio
+
    ```
 
 2. Move to the cloned directory
