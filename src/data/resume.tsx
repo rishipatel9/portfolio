@@ -75,7 +75,7 @@ export const DATA = {
   projects: [
     {
       title: "text",
-      href: "https://text.whiteopx/xyz",
+      href: "https://text.whiteops.xyz",
       dates: "July 2023 - Present",
       active: true,
       description:
