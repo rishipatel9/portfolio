@@ -20,7 +20,6 @@ export const DATA = {
     "Postgres",
     "Docker",
     "Redis",
-    "Nodejs",
     "C++",
 
   ],
