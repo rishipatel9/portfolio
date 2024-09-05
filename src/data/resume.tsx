@@ -3,9 +3,9 @@ import { HomeIcon } from "lucide-react";
 
 export const DATA = {
   name: "Rishi Patel",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "Mumbai, CA",
+  initials: "RP",
+  url: "https://rishi-portfolio-opal.vercel.app/",
+  location: "Mumbai, India",
   locationLink: "https://www.google.com/maps/place/mumbai",
   description:
     "Full stack engineer. I love understanding and building complex things",
@@ -29,7 +29,6 @@ export const DATA = {
   ],
   contact: {
     email: "rishipatel0826@gmail.com",
-    tel: "9136361465",
     social: {
       GitHub: {
         name: "GitHub",
@@ -66,7 +65,6 @@ export const DATA = {
       school: "Tilak Vidhyapeet pune",
       href: "https://www.tmv.edu.in/",
       degree: "Bachelor's in Computer Application (BCA)",
-      logoUrl: "/buildspace.jpg",
       start: "2022",
       end: "2025",
     }
