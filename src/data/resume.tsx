@@ -65,6 +65,7 @@ export const DATA = {
       school: "Tilak Vidhyapeet pune",
       href: "https://www.tmv.edu.in/",
       degree: "Bachelor's in Computer Application (BCA)",
+      logoUrl: "/buildspace.jpg",
       start: "2022",
       end: "2025",
     }
