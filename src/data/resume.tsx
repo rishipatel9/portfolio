@@ -74,7 +74,7 @@ export const DATA = {
     {
       title: "text",
       href: "https://text.whiteops.xyz",
-      dates: "July 2023 - Present",
+      dates: "July 2023 - Aug 2023",
       active: true,
       description:
         "A scalable real-time chat app that leverages Redis and WebSockets for efficient message delivery and instant communication across multiple users. Designed to handle high traffic with minimal latency.",
@@ -107,6 +107,34 @@ export const DATA = {
         },
       ],
       image: "https://imgtr.ee/images/2024/08/18/020a87298274ba89926e46e824573757.jpeg",
+    },
+    {
+      title: "Wallet",
+      href: "https://wallet.whiteops.xyz",
+      dates: "Aug 2023 - Present",
+      active: true,
+      description:
+        "A Web3 wallet is a decentralized tool that allows users to securely store, send, and receive cryptocurrencies, while interacting seamlessly with blockchain applications. ",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Shadcn UI",
+        "@solana/web3.js"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://wallet.whiteops.xyz",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/rishipatel9/sol-wallet",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "https://i.postimg.cc/k49TbNKf/Screenshot-2024-09-17-at-5-39-11-PM.jpg",
     },
     {
       title: "mines",
