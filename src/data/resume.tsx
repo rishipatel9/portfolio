@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon } from "lucide-react";
+import { HomeIcon, NotepadText } from "lucide-react";
 
 export const DATA = {
   name: "Rishi Patel",
@@ -17,7 +17,7 @@ export const DATA = {
     "Next.js",
     "Typescript",
     "Node.js",
-    "Postgres",
+    "PostgresSQL",
     "Docker",
     "Redis",
     "C++",
@@ -25,7 +25,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "https://drive.google.com/file/d/1AkNUfSMQJDUrNTuwxGDVGZUtfn0b4hvO/view?usp=sharing", icon: NotepadText , label: "Resume" },
   ],
   contact: {
     email: "rishipatel0826@gmail.com",
