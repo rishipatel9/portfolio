@@ -106,7 +106,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "https://imgtr.ee/images/2024/08/18/020a87298274ba89926e46e824573757.jpeg",
+      image: "https://i.postimg.cc/13smfTkJ/Screenshot-2024-08-18-at-12-09-51-PM.jpg",
     },
     {
       title: "Wallet",
@@ -169,7 +169,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "https://imgtr.ee/images/2024/08/18/73014a345029eef61eca29a6ea1bb0f6.jpeg",
+      image: "https://i.postimg.cc/XJmFW3D2/Screenshot-2024-06-25-at-5-17-35-PM.jpg",
     },
   ],
 
