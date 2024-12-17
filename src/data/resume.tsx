@@ -72,6 +72,36 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Elytra",
+      href: "https://rishii.dev",
+      dates: "Nov 2024 - Dec 2024",
+      active: true,
+      description:
+        "Elytra is a web-based platform that allows users to create, share, and discover interactive stories. Users can create branching narratives, add images, and embed media to create engaging and immersive experiences.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "PostgreSQL",
+        "Prisma",
+        "Heygen",
+        "PineCone",
+        "NextAuth",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://rishii.dev",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/rishipatel9/elytra",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "https://i.postimg.cc/V6Z0Nw4b/Screenshot-2024-12-14-at-4-26-50-PM.png",
+    },
+    {
       title: "text",
       href: "https://text.whiteops.xyz",
       dates: "July 2023 - Aug 2023",
